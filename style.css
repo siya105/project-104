@@ -1,0 +1,12 @@
+body
+{
+background-image: linear-gradient(to right top, #0026a3, #0004e6, #006eff, #6db1ff, #b0d2ff);
+}
+
+#btn_capture_image{
+    background-color: rgb(220, 20, 160);
+}
+
+#btn_identify_person{
+    background-color: rgb(220, 20, 160);
+}
